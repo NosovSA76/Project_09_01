@@ -121,6 +121,14 @@
         transform-origin: center;
         animation: infinity-rotate 30s linear 4s infinite;
       }
+        .btn-text-tabl {
+        transform-origin: center;
+        animation: infinity-rotate 30s linear 4s infinite;
+      }
+        .btn-text {
+        transform-origin: center;
+        animation: infinity-rotate 30s linear 4s infinite;
+      }
 
       .hero-btn:hover #btn-txt,
       .hero-btn:focus #btn-txt {
