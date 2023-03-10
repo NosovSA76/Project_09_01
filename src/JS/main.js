@@ -1,1 +1,0 @@
-<script type="module" src="./JS/slick-carousel.js"></script>
